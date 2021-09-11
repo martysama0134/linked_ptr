@@ -1,4 +1,4 @@
-#include "../include/linked_ptr/linked_ptr.h"
+import "../include/linked_ptr/linked_ptr.h";
 #include <iostream>
 #include <memory>
 #include <chrono>
