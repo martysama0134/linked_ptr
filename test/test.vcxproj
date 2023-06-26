@@ -146,6 +146,7 @@
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\linked_ptr\linked_ptr.h" />
     <ClInclude Include="..\include\proxy_ptr\proxy_ptr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
